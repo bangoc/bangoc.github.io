@@ -1,2 +1,2 @@
 # bangoc.github.io
-Trang chủ của Bá Ngọc
+Blog của Nguyễn Bá Ngọc
