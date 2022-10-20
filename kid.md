@@ -1,5 +1,14 @@
 # Định nghĩa dữ liệu, thông tin, tri thức
 
+## Nội dung
+1. [Dữ liệu](#dữ-liệu)
+2. [Thông tin](#thông-tin)
+3. [Tri thức](#tri-thức)
+4. [Tri thức ẩn và tri thức tường minh](#tri-thức-ẩn-và-tri-thức-tường-minh)
+5. [Tài sản trí tuệ](#tài-sản-tri-tuệ)
+6. [Tài sản tri thức](#quản-trị-tri-thức)
+7. [Quản trị tri thức](#quản-trị-tri-thức)
+
 _Trong Quản Trị Tri Thức (Knowledge Management / KM) phân biệt các khái niệm "Tri thức", "Thông tin" và "Dữ liệu" có ý nghĩa rất quan trọng. Trong bài viết này, chúng ta sẽ cùng khám phá 1 mô hình tương đối phổ biến, trong đó dữ liệu, thông tin, và tri thức được tổ chức thành 1 cấu trúc phân cấp hình kim tự tháp._
 
 ![](https://user-images.githubusercontent.com/6079339/196896187-1ed880ab-14a9-4d99-a2d0-a9028ab66f40.png)
