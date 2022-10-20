@@ -31,3 +31,25 @@ Một khía cạnh quan trọng của tri thức là tính cụ thể, có nghĩ
 > ! Đừng để bản thân bị rơi vào cái bẫy cố gắng phân tách mọi thứ là dữ liệu, thông tin, hay tri thức.  Mọi người đều có thể đưa ra ngữ cảnh riêng và  quyết định cái gì là cái gì. Thông tin của tôi có thể là tri thức của bạn trong khi đó tri thức của bạn có thể là thông tin của tôi...
 
 ## Tri thức ẩn và tri thức tường minh
+
+Tri thức ẩn và tri thức tường minh là 2 khái niệm quan trọng khác cần phân biệt trong quản trị tri thức.
+
+**Tri thức tường minh** có thể được nói ra, được viết xuống, và được truyền đi. Nó có tính chất khách quan, chứa đựng trong các luật và các định nghĩa. Nó có thể dễ dàng được thu thập, lưu trữ, và truyền đi bằng các phương tiện điện tử. Nhìn chung tri thức tường minh là những gì chúng ta biết và có thể diễn tả bằng lời. Tri thức tường minh bao gồm những thứ chúng ta biết và chúng ta có thể ghi chép lại, chia sẻ với người khác, và đưa vào cơ sở dữ liệu. Ví dụ như công thức làm món cá rán. Các bước làm món cá rán có thể được mô tả chi tiết, thứ tự chính xác các hành động mà bạn có thể dậy ai đó khác.
+
+**Tri thức ẩn** bao gồm cảm nhận, kinh nghiệm, nhận thức, quy tắc được đúc kết từ thực tiễn, và tập kỹ năng. Nó tồn tại trong ngữ cảnh. Nhưng yên lặng. Khó diễn tả, xử lý, thu thập, hay truyền đi bằng các phương tiện kỹ thuật theo cách giống như trong các phim khoa học viễn tưởng, điển hình như những phân cảnh mà 1 người có thể có được các kỹ năng phi phàm sau 1 thời gian ngắn tiếp nhận các tri thức ẩn từ hệ thống máy tính. Sự khác biệt giữa tri thức ẩn và tri thức tường minh là rất quan trọng. Tri thức ẩn là những gì chúng ta không biết rằng chúng ta biết. Bạn có thể cảm nhận được sự khác biệt giữa món cá rán được chuẩn bị bởi 1 đầu bếp chuyên nghiệp và món cá rán được chuẩn bị bởi 1 đầu bếp thuộc công thức nhưng thiếu kinh nghiệm thực tiễn.
+
+## Tài sản tri tuệ
+
+Tài sản trí tuệ bao gồm tất cả những gì mà 1 tổ chức biết. Trong đó có thể là các ý tưởng, các loại tri thức khác nhau, và các sáng chế. Nhưng thiết nghĩ, chính tri thức là nguyên liệu cơ bản mà tổ chức có thể biến đổi thành lợi nhuận.
+
+## Tài sản tri thức
+
+Tài sản tri thức về bản chất phản chiếu mức độ hiệu quả mà 1 tổ chức sử dụng tri thức của lực lượng lao động của nó, tri thức về nhu cầu của khách hàng, và tri thức của các đối tác cung ứng để đảm bảo các kết quả với giá trị gia tăng. Tài sản tri thức là cách 1 tổ chức tạo ra lợi nhuận từ tài nguyên thông tin của nó thường xuyên.
+
+## Quản trị tri thức
+
+Quản trị tri thức tập trung vào cách 1 tổ chức xác định, tạo, thâu tóm, chia sẻ, và sử dụng tri thức. Các tiến trình có hệ thống hỗ trợ các hoạt động này, đồng thòi cũng góp phần vào các thành công. Tất cả các hành động cụ thể mà các tổ chức thực hiện để quản lý tri thức của họ.
+
+Có nhiều khái niệm liên quan đến quản trị tri thức như "chia sẻ tri thức", "kiến tạo tri thức", "thu thập tri thức" và "tìm kiếm tri thức". Đối với nhiều người, từ quản trị còn bao hàm ý nghĩa điều khiển thứ gì đó, nhưng tri thức không phải là thứ có thể điều khiển. Để có thể điều khiển thì tri thức phải có bản chất tĩnh và bất biến, nhưng tri thức thì biến đổi liên tục. Có nhiều hoạt động được gắn tri thức điển hình như xác định, thu thập, chia sẻ, thâu tóm, và sử dụng. Cuối cùng, tất cả các hoạt động này hợp thành 1 tiến trình lớn hơn được gọi là quản trị tri thức.
+
+> Điều quan trọng nhất chính là tri thức là tài sản quan trọng nhất. Tri thức mà chúng ta biết, chúng ta sử dụng nó tốt đến đâu, và chúng ta học những cái mới nhanh tới mức nào làm chúng ta có năng lực cạnh tranh. Nó có thể đem lại cho chúng ta chính ưu thế tạo nên sự khác biệt.
