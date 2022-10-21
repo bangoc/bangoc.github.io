@@ -71,9 +71,36 @@ Các định nghĩa tiêu biểu khác cho khái niệm tri thức
 * Tri thức là tổ hợp của dữ liệu và thông tin đã được thêm vào quan điểm chuyên gia, các ký năng và kinh nghiệm, hợp thành tài sản có giá trị có thể được sử dụng để hỗ trợ ra quyêt định [2].
 * Tri thức là niềm tin đã được chứng minh tính đúng đắn [3].
 
+Các định nghĩa tiêu biểu khác cũng dựa trên khái niệm dữ liệu cho khái niệm thông tin:
+
+* Thông tin là dữ liệu đã được định dạng và có vai trò như 1 biểu diễn của thực tế khách quan. [4]
+* Thông tin là dữ liệu đã được định hình thành thứ có nghĩa và hữu ích cho con người. [5]
+* Thông tin là dữ liệu đã được tổ chức sao cho chúng có nghĩa và giá trị đối với đối tượng tiếp nhận. [6]
+
+Đáng lưu ý trong chương trình đào tạo của chúng ta từ bậc phổ thông, các khái niệm dữ liệu, thông tin, và tri thức đã được đưa vào giảng dạy từ lớp 10.
+
+* Sách tin học 10 của bộ "Kết nối" đã định nghĩa:  
+  * "Trong tin học, dữ liệu là thông tin đã được đưa vào máy tính để máy tính có thể nhận biết và xử lí được."
+  * "Thông tin là ý nghĩa của dữ liệu. Dữ liệu là các yếu tố thể hiện, xác định thông tin. Thông tin và dữ liệu có tính độc lập tương đối. Cùng một thông tin có thể được thể hiện bởi nhiều loại dữ liệu khác nhau. Ngược lại, một dữ liệu có thể mang nhiều thông tin khác nhau."
+  * "Với vai trò là ý nghĩa, thông tin có tính toàn vẹn. Dữ liệu không đầy đủ có thể làm thông tin sai lệch, thậm chí không xác định được."
+* Sách tin học 10 của bộ "Cánh diều" đã định nghĩa:
+  * "Tri thức hay kiến thức là các hiểu biết hay kĩ năng có được nhờ trải nghiệm thực tế hay học được. Trong tin học, khai thác trích xuất tri thức là việc tạo ra tri thức từ các nguồn dữ liệu và thông tin. Bài toán rút ra tri thức từ thông tin cũng tương tự như rút ra thông tin từ dữ liệu. Tri thức thu được hữu ích cho con người."
+  * Trong lưu trữ và trao đổi thông tin của con người, thông tin là nội dung, dữ liệu là hình thức thể hiện; dữ liệu là thông tin dưới dạng chứa trong phương tiện mang tin. 
+
+Có thể thấy 1 vòng lặp trong lối định nghĩa dữ liệu và thông tin trong sách tin học 10 của bộ "Kết nối", cụ thể là dữ liệu được định nghĩa dựa trên thông tin, còn thông tin thì được định nghĩa dựa trên ý nghĩa của dữ liệu. Lưu ý rằng ý nghĩa cúng là một khái niệm rất trừu tượng.
+...
+
 ## Tham khảo
-[1] [Defining Knowledge, Information, Data](https://www.phpkb.com/kb/article/defining-knowledge-information-data-239.html)
+[1] Phần lớn nội dung của bài viết này được dựa trên [Defining Knowledge, Information, Data](https://www.phpkb.com/kb/article/defining-knowledge-information-data-239.html)
 
 [2] D. Chaffey and S. Wood, *Business Information Management: Improving Performance Using Information Systems* (FT Prentice Hall, Harlow, 2005), p.223.
 
 [3] Được nhắc đến trong các tác phẩm của Plato, [ví dụ](https://plato.stanford.edu/entries/knowledge-value/).
+
+[4] L.M. Jessup and J.S. Valacich, *Information Systems Today* (Prentice Hall, Upper Saddle River, NJ, 2003), p. 7.
+
+[5] K.C. Laudon and J.P. Laudon, *Management Information Systems: Managing the Digital Firm* (Pearson
+Prentice Hall, Upper Saddle River, NJ, 2006), p. 13.
+
+[6] D. Boddy, A. Boonstra and G. Kennedy, *Managing Information Systems: an Organizational Perspective*
+(FT Prentice Hall, Harlow, 2005).
