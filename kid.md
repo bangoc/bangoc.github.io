@@ -68,7 +68,7 @@ Có nhiều khái niệm liên quan đến quản trị tri thức như "chia s�
 ## Các định nghĩa khác
 Các định nghĩa tiêu biểu khác cho khái niệm tri thức
 
-* Tri thức là tổ hợp của dữ liệu và thông tin đã được thêm vào quan điểm chuyên gia, các ký năng và kinh nghiệm, hợp thành tài sản có giá trị có thể được sử dụng để hỗ trợ ra quyêt định [2].
+* Tri thức là sự hòa trộn của dữ liệu và thông tin với quan điểm chuyên gia, các kỹ năng và kinh nghiệm, hợp thành tài sản có giá trị có thể được sử dụng để hỗ trợ ra quyêt định [2].
 * Tri thức là niềm tin đã được chứng minh tính đúng đắn [3].
 
 Các định nghĩa tiêu biểu khác của thông tin cùng dựa trên khái niệm dữ liệu:
@@ -87,8 +87,9 @@ Các định nghĩa tiêu biểu khác của thông tin cùng dựa trên khái 
   * "Tri thức hay kiến thức là các hiểu biết hay kĩ năng có được nhờ trải nghiệm thực tế hay học được. Trong tin học, khai thác trích xuất tri thức là việc tạo ra tri thức từ các nguồn dữ liệu và thông tin. Bài toán rút ra tri thức từ thông tin cũng tương tự như rút ra thông tin từ dữ liệu. Tri thức thu được hữu ích cho con người."
   * Trong lưu trữ và trao đổi thông tin của con người, thông tin là nội dung, dữ liệu là hình thức thể hiện; dữ liệu là thông tin dưới dạng chứa trong phương tiện mang tin. 
 
-Đọc các định nghĩa dữ liệu và thông tin trong sách tin học 10 của bộ "Kết nối" tôi có cảm giác như bắt gặp 1 vòng lặp khái niệm, với dữ liệu được định nghĩa dựa trên thông tin, còn thông tin thì được định nghĩa dựa trên ý nghĩa của dữ liệu. Điều này khiến tôi liên tưởng đến câu đố xin được hỏi quả trứng hay con gà có trước?
-Vẫn chưa hết cơ thông tin là nội dung còn dữ liệu là hình thức thể hiện ư? Ôi cái cảm giác chênh vênh nó lại xuất hiện! ...
+Đọc các định nghĩa dữ liệu và thông tin trong sách tin học 10 của bộ "Kết nối" tôi có cảm giác như bắt gặp 1 vòng lặp khái niệm, với dữ liệu được định nghĩa dựa trên thông tin, còn thông tin thì được định nghĩa dựa trên ý nghĩa của dữ liệu. Điều này khiến tôi liên tưởng đến câu đố quả trứng hay con gà có trước?
+Vẫn chưa hết cơ ...dữ liệu là hình thức thể hiện ư? Ôi cái cảm giác chênh vênh nó lại xuất hiện! ...
+Tôi nghĩ rằng để tháo gỡ cái mớ bòng bong này trước tiên có lẽ đừng đánh đồng thể hiện của thông tin trong vật mang tin với dữ liệu như trong ví dụ về mảnh giấy viết tay. Lập luận dòng chữ viết tay là dữ liệu văn bản nghe thật buồn như tiếng rít của những cơn gió lạnh đầu mùa bên ô của sổ thơ dại.
 
 ## Tham khảo
 [1] Phần lớn nội dung của bài viết này được dựa trên [Defining Knowledge, Information, Data](https://www.phpkb.com/kb/article/defining-knowledge-information-data-239.html)
