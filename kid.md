@@ -25,7 +25,7 @@ Tất cả các tổ chức đều cần dữ liệu,  và có những tổ ch�
 
 Từ thông tin thường được sử dụng tương đương với từ information. Trong tiếng Anh information có gốc là inform - có 1 nghĩa là "định hình cho". Như vậy có thể hiểu information hay thông tin có tác động định hình đối với thế giới quan của đối tượng tiếp nhận, hoặc ngắn gọn là có ý nghĩa đối với đối tượng tiếp nhận. Thông tin là tổ hợp dữ liệu có khả năng hỗ trợ ra quyết định. Thông tin còn là dữ kiện và số liệu dựa trên dữ liệu đã được tái định dạng hoặc đã được xử lý.
 
-Khác với dữ liệu, thông tin có ý nghĩa, mục đích và tính phù hợp. Nó có hình trạng bởi vì nó được tổ chức cho mục đích. Trong khi dữ liệu nhấn mạnh số lượng và tính hiệu quả của tiến trình, thì thông tin tập trung vào chất lượng. Dữ liệu trở thành thông tin khi mà ý nghĩa hoặc giá trị được thêm vào để làm gia tăng chất lượng ra quyết định.
+Khác với dữ liệu, thông tin có ý nghĩa, mục đích và tính phù hợp. Nó có hình trạng bởi vì nó được tổ chức cho mục đích. Trong khi dữ liệu nhấn mạnh số lượng và tính hiệu quả của tiến trình, thì thông tin tập trung vào chất lượng. Dữ liệu trở thành thông tin khi mà ý nghĩa hoặc giá trị được thêm vào làm tăng chất lượng ra quyết định.
 
 ## Tri thức
 
