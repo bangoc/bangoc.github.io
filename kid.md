@@ -33,7 +33,7 @@ Khi thông tin được đặt trong ngữ cảnh tri thức sẽ cho chúng ta 
 
 Tri thức không phải thông tin và thông tin không phải dữ liệu. Tri thức được đúc kết từ thông tin theo cùng cách mà thông tin được đúc kết từ dữ liệu. Nó có thể được coi như hiểu thông tin dựa trên cảm nhận về tính quan trọng hoặc tính phù hợp của thông tin đối với lĩnh vực ứng dụng. Nó cũng có thể được coi như phạm vi thông tin của người. Bao phủ 1 không gian rộng hơn thông tin, tri thức bao gồm cả cảm nhận, kỹ năng, kỹ thuật, thị hiếu, và kinh nghiệm. Nó là tổng hòa của nhiề u tiến trình nhận thức và giúp chúng ta đưa ra những kết luận có ý nghĩa.
 
-Tri thức đã luôn là thành phần thiết yếu trong sự phát triển của nhân loại. Loài người sử dụng tri thức của họ để tạo ra những sản phẩm và dịch vụ với giá trị tăng cường để chiếm ưu thế trong cạnh tranh.
+Tri thức luôn là thành phần thiết yếu trong sự phát triển của nhân loại. Loài người sử dụng tri thức của họ để tạo ra những sản phẩm và dịch vụ với giá trị tăng cường và chiếm ưu thế trong cạnh tranh.
 
 Hành động, hoặc khả năng hành động chính là thứ khiến cho tri thức có giá trị. Đó cũng là tiêu chí quan trọng nhất đối với tri thức trong 1 tổ chức. Bạn cần tri thức nào cho hành động nào? Bạn sử dụng tri thức cho các hành động như thế nào? Các hành động sẽ là đúng đắn? Đại ý là, năng lực đặc biệt quan trọng mà tri thức đem lại cho bạn là gì?
 
