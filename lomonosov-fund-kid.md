@@ -13,8 +13,8 @@ Có những trường hợp cả dữ liệu, thông tin, và tri thức cùng �
 Hiểu sự khác biệt giữa dữ liệu, thông tin và tri thức - Điều kiện tiên quyết để hiểu các tiến trình thông tin nói riêng và tin học kinh tế nói chung.
 
 ## Nội dung
-1. [Dữ liệu, thông tin và tri trức - ví dụ](#dữ-liệu-thông-tin-và-tri-thức-ví-dụ)
-2. [Dữ liệu, thông tin, tri thức và xử lý tự động](#dư-liệu-thông-tin-tri-thức-và-xử-lý-tự-động)
+1. [Dữ liệu, thông tin và tri trức - ví dụ](#dữ-liệu-thông-tin-và-tri-thức---ví-dụ)
+2. [Dữ liệu, thông tin, tri thức và xử lý tự động](#dữ-liệu-thông-tin-tri-thức-và-xử-lý-tự-động)
 
 ## Dữ liệu, thông tin và tri thức - ví dụ
 
