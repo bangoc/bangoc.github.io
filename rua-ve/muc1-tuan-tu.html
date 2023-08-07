@@ -21,26 +21,26 @@ body {
 
 .two-rows-grid {
   display: grid;
-  grid-template-rows: 520px 50px;
+  grid-template-rows: 360px 40px;
 }
 
 .area-library {
   float: left;
   background: #99ccff;
-  padding: 20px;
+  padding: 10px;
 }
 
 .area-editor {
   float: left;
   background: #66ccff;
-  padding: 20px;
+  padding: 10px;
 }
 
 
 .area-canvas {
   float: left;
-  padding: 20px;
-  min-width: 550px;
+  padding: 10px;
+  min-width: 380px;
   background-color: #0099ff;
 }
 
@@ -48,12 +48,12 @@ textarea {
   width: 100%;
   background-color: #e6ffff;
   border:none;
-  height: 520px;
+  height: 360px;
   padding: 5px;
-  line-height: 23px;
+  line-height: 22px;
   overflow: auto;
   color: #000000;
-  font-size: 22px;
+  font-size: 20px;
   font-family: Arial;
 }
 
@@ -62,12 +62,12 @@ textarea:focus {
 }
 
 code {
-  font-size: 20px;
+  font-size: 18px;
   font-family: Arial;
 }
 
 button {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 #turtlecanvas {
@@ -87,7 +87,7 @@ button {
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 16px;
+  padding: 6px 8px;
   transition: 0.3s;
 }
 
@@ -101,7 +101,7 @@ button {
 
 .tabcontent {
   display: none;
-  padding: 6px 12px;
+  padding: 6px 8px;
   border: 1px solid #ccc;
   border-top: none;
 }
@@ -150,15 +150,15 @@ button {
     <div>
       <textarea id="source-codes" spellcheck="false"></textarea>
     </div>
-    <div style="padding-top: 20px;">
+    <div style="padding-top: 10px;">
       <button id="run-button">Chạy</button>
     </div>
   </div>
   
   <div class="area-canvas">
     <!-- <h4>Khung vẽ</h4> -->
-    <canvas id="turtlecanvas" width="520" height="520"></canvas>
-    <canvas id="imagecanvas" width="520" height="520" style="display:none"></canvas>
+    <canvas id="turtlecanvas" width="360" height="360"></canvas>
+    <canvas id="imagecanvas" width="360" height="360" style="display:none"></canvas>
   </div>
 </div>
 <script src="./js/jquery-1.12.0.min.js"></script>

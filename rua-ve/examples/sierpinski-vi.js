@@ -47,8 +47,8 @@ function sierpinski(kích_thước, độ_sâu) {
 
 function trình_diễn() {
    ẩn_rùa();
-   nhảy(0, -180);
-   sierpinski(3,5);
+   nhảy(0, -120);
+   sierpinski(2,5);
 }
 
 trình_diễn();
