@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Học lập trình qua vẽ hình</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.three-columns-grid {
+  display: grid;
+  grid-template-columns: 20% 35% 45%;
+}
+
+.three-columns-grid > * {
+    padding:1rem;
+}
+
+.two-rows-grid {
+  display: grid;
+  grid-template-rows: 520px 50px;
+}
+
+.area-library {
+  float: left;
+  background: #99ccff;
+  padding: 20px;
+}
+
+.area-editor {
+  float: left;
+  background: #66ccff;
+  padding: 20px;
+}
+
+
+.area-canvas {
+  float: left;
+  padding: 20px;
+  min-width: 550px;
+  background-color: #0099ff;
+}
+
+textarea {
+  width: 100%;
+  background-color: #e6ffff;
+  border:none;
+  height: 520px;
+  padding: 5px;
+  line-height: 23px;
+  overflow: auto;
+  color: #000000;
+  font-size: 22px;
+  font-family: Arial;
+}
+
+textarea:focus {
+  box-shadow: 0 0 1px 1px #3e4ef9;
+}
+
+code {
+  font-size: 20px;
+  font-family: Arial;
+}
+
+button {
+  font-size: 22px;
+}
+
+#turtlecanvas {
+   background:#fff;
+   border: 1px solid red;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+.tab button:hover {
+  background-color: #ddd;
+}
+
+.tab button.active {
+  background-color: #ccc;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+</style>
+</head>
+<body>
+<h1 style="color: #000099">Lập trình điều khiển rùa vẽ</h2>
+
+<div class="three-columns-grid">
+  <div class="area-library">
+    <div class="tab">
+      <button class="tablinks" onclick="open_content(event, 'library')">Thư viện</button>
+      <button class="tablinks" onclick="open_content(event, 'example')">Ví dụ</button>
+    </div>
+    <div id="library" class="tabcontent" style="display:block;">
+      <code>
+        <b>tiến(số bước)</b> - ví dụ, tiến(10); <br/>
+        <b>phải(góc xoay)</b> - phải(90); <br/>
+        <b>trái(góc xoay)</b> - trái(90); <br/>
+        <b>nhảy(x,y)</b> - nhảy(50, 60); <br/>  
+        <b>góc(giá trị)</b> - góc(270); <br/>
+        <b>rộng(kích thước nét)</b> - rộng(3); <br/>
+        <b>mầu(r,g,b,a)</b> - mầu(0, 100, 0, 1); <br/>      
+        <b>rùa(biểu tượng)</b> - {"tam_giác", "rùa", "vuông", "tròn"}, ví dụ, rùa("tam_giác");<br/>
+        <b>viết(thông điệp)</b> - viết("Xin chào"); <br/>
+        <b>xóa();</b> - Xóa bảng vẽ, giữ nguyên rùa. <br/>
+        <b>nâng_bút();</b> - Không vẽ khi di chuyển.<br/>
+        <b>đặt_bút();</b> - Vẽ khi di chuyển. <br/>
+        <b>ẩn_rùa();</b> - Ẩn biểu tượng rùa. <br/>
+        <b>hiện_rùa();</b> - Hiện biểu tượng rùa.<br/>
+        <b>khởi_động_lại()</b> - Thiết lập trạng thái như ban đầu. <br/>
+      </code>
+    </div>
+    <div id="example" class="tabcontent">
+      <button onclick="set_example(event, 'tam-giác')">Tam giác</button>
+      <button onclick="set_example(event, 'nét-ngẫu-nhiên')">Nét ngẫu nhiên</button>
+      <button onclick="set_example(event, 'sierpinski')">Hình sierpinski</button>
+      <button onclick="set_example(event, 'xoắn-ốc')">Đường xoắn ốc</button>
+      <button onclick="set_example(event, 'đồng-hồ')">Đồng hồ</button>
+      <button onclick="set_example(event, 'mưa-hộp')">Mưa hộp</button>
+    </div>
+  </div>
+  <div class="area-editor two-rows-grid">
+    <!-- <h4>Mã nguồn</h4> -->
+    <div>
+      <textarea id="source-codes" spellcheck="false"></textarea>
+    </div>
+    <div style="padding-top: 20px;">
+      <button id="run-button">Chạy</button>
+    </div>
+  </div>
+  
+  <div class="area-canvas">
+    <!-- <h4>Khung vẽ</h4> -->
+    <canvas id="turtlecanvas" width="520" height="520"></canvas>
+    <canvas id="imagecanvas" width="520" height="520" style="display:none"></canvas>
+  </div>
+</div>
+<script src="./js/jquery-1.12.0.min.js"></script>
+<script src="./js/auto-line-number.js"></script>
+ <script>
+  $("#source-codes").setTextareaCount({
+    width: "39px",
+    bgColor: "#0066ff",
+    color: "#FFFF",
+    display: "inline-block"
+  });
+</script> 
+<script type="text/javascript" src="./js/turtle-vi.js"></script>
+<script type="text/javascript" src="./js/tab.js"></script>
+<script type="text/javascript" src="./examples/list.js"></script>
+</body>
+</html>
+
