@@ -145,6 +145,7 @@ const khởi_động_lại = () => {
    for (const id of các_chu_kỳ) {
       clearInterval(id);
    }
+   các_chu_kỳ.length = 0;
 
    xóa();
    vẽ();
