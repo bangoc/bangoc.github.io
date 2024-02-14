@@ -1,5 +1,7 @@
 Các bài trong blog này mình viết để học chứ không phải để dạy ai cái gì
 
+[Từ cây nhị phân tới cây đỏ đen](https://bangoc.github.io/tu-nhi-phan-toi-do-den/tu-nhi-phan-toi-do-den.html)
+
 [Sắp xếp và tìm kiếm nhanh với mảng trong C](https://bangoc.github.io/qsort-bsearch-C.html)
 
 [Học lập trình thông qua vẽ hình với rùa đồ họa](https://bangoc.github.io/rua-ve/muc1-tuan-tu.html)
