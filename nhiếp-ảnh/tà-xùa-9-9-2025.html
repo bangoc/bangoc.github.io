@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Photo Gallery</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+      background-color: #f4f4f4;
+    }
+
+    h2 {
+      margin-bottom: 30px;
+    }
+
+    .gallery {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .gallery img {
+      width: 800px;
+      object-fit: cover;
+      cursor: pointer;
+      border: 2px solid #ccc;
+      transition: transform 0.3s, border-color 0.3s;
+    }
+
+    .gallery img:hover {
+      transform: scale(1.05);
+      border-color: #333;
+    }
+
+    /* Overlay styles */
+    .overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.85);
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+      flex-direction: column;
+    }
+
+    .overlay img {
+      max-width: 90%;
+      max-height: 80%;
+      box-shadow: 0 0 20px #000;
+      transition: transform 0.3s ease;
+    }
+
+    .close-btn {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      font-size: 40px;
+      color: white;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .zoom-controls {
+      position: absolute;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 10000;
+      display: flex;
+      gap: 10px;
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 8px 12px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+    }
+
+    .zoom-controls button {
+      background-color: #fff;
+      color: #000;
+      border: none;
+      padding: 10px 20px;
+      margin: 0 10px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: background-color 0.2s;
+    }
+
+    .zoom-controls button:hover {
+      background-color: #ddd;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Gallery -->
+  <div class="gallery">
+    <img src="tà-xùa-9-9-2025/DSC_8742-small.JPG" data-large="tà-xùa-9-9-2025/DSC_8742.JPG">
+    <img src="tà-xùa-9-9-2025/DSC_8743-small.JPG" data-large="tà-xùa-9-9-2025/DSC_8743.JPG">
+    <img src="tà-xùa-9-9-2025/DSC_8747-small.JPG" data-large="tà-xùa-9-9-2025/DSC_8747.JPG">
+    <img src="tà-xùa-9-9-2025/DSC_8754-small.JPG" data-large="tà-xùa-9-9-2025/DSC_8754.JPG">
+    <img src="tà-xùa-9-9-2025/IMG_20250908-small.jpg" data-large="tà-xùa-9-9-2025/IMG_20250908.jpg">
+  </div>
+
+  <!-- Overlay -->
+  <div class="overlay" id="overlay" onclick="hideOverlay(event)">
+    <span class="close-btn" onclick="hideOverlay(event)">&times;</span>
+
+    <!-- Zoom Controls - Always on Top -->
+    <div class="zoom-controls">
+      <button onclick="zoomIn()">Zoom In +</button>
+      <button onclick="zoomOut()">Zoom Out -</button>
+      <button onclick="resetZoom()">Reset</button>
+    </div>
+
+    <img id="overlayImg" src="">
+  </div>
+
+  <script>
+    const overlay = document.getElementById('overlay');
+    const overlayImg = document.getElementById('overlayImg');
+    let currentScale = 1;
+
+    document.querySelectorAll('.gallery img').forEach(img => {
+      img.addEventListener('click', () => {
+        const largeSrc = img.getAttribute('data-large');
+        overlayImg.src = largeSrc;
+        currentScale = 1;
+        overlayImg.style.transform = `scale(${currentScale})`;
+        overlay.style.display = 'flex';
+      });
+    });
+
+    function hideOverlay(event) {
+      // Only close if click is on background or close button
+      if (event.target === overlay || event.target.classList.contains('close-btn')) {
+        overlay.style.display = 'none';
+        overlayImg.src = '';
+        currentScale = 1;
+        overlayImg.style.transform = `scale(${currentScale})`;
+      }
+    }
+
+    function zoomIn() {
+      currentScale += 0.2;
+      overlayImg.style.transform = `scale(${currentScale})`;
+    }
+
+    function zoomOut() {
+      currentScale = Math.max(0.2, currentScale - 0.2); // Prevent negative/zero scale
+      overlayImg.style.transform = `scale(${currentScale})`;
+    }
+
+    function resetZoom() {
+      currentScale = 1;
+      overlayImg.style.transform = `scale(1)`;
+    }
+  </script>
+
+</body>
+</html>

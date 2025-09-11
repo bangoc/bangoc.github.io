@@ -13,3 +13,5 @@ Các bài trong blog này mình viết để học chứ không phải để d�
 [Dữ liệu, thông tin, và tri thức](https://bangoc.github.io/lomonosov-fund-kid) (Dịch từ bài viết trong "Quỹ tri thức Lomonosov")
 
 [Định nghĩa dữ liệu, thông tin, và tri thức](https://bangoc.github.io/kid)
+
+[Thiên nhiên: Tà Xùa - Bắc Yên - 9 - 9 - 2025](https://bangoc.github.io/nhiếp-ảnh/tà-xùa-9-9-2025.html)
