@@ -14,4 +14,4 @@ Các bài trong blog này mình viết để học chứ không phải để d�
 
 [Định nghĩa dữ liệu, thông tin, và tri thức](https://bangoc.github.io/kid)
 
-[Thiên nhiên: Tà Xùa - Bắc Yên - 9 - 9 - 2025](https://bangoc.github.io/nhiếp-ảnh/tà-xùa-9-9-2025.html)
+[Thiên nhiên: Tà Xùa - Xím Vàng / Bắc Yên / 9 - 9 - 2025](https://bangoc.github.io/nhiếp-ảnh/tà-xùa-9-9-2025.html)
