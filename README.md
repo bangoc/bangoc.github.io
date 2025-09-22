@@ -19,3 +19,5 @@ Các bài trong blog này mình viết để học chứ không phải để d�
 [Thiên nhiên: Ruộng bậc thang Cao Phạ - Mù Cang Chải -> Sơn La / 9-9-2025](https://bangoc.github.io/ảnh/ruộng-bậc-thang-9-9-2025.html)
 
 [Thiên nhiên: Xím Vàng múa lúa chín 2025](https://bangoc.github.io/ảnh/xím-vàng-mùa-lúa-2025.html)
+
+[Ảnh thiên văn chụp ở Tà Xùa tối 20/9/2025](https://bangoc.github.io/ảnh/thiên-văn-20-9-2025.html)
