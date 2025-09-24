@@ -21,3 +21,5 @@ Các bài trong blog này mình viết để học chứ không phải để d�
 [Thiên nhiên: Xím Vàng múa lúa chín 2025](https://bangoc.github.io/ảnh/xím-vàng-mùa-lúa-2025.html)
 
 [Ảnh thiên văn chụp ở Tà Xùa tối 20/9/2025](https://bangoc.github.io/ảnh/thiên-văn-20-9-2025.html)
+
+[Đèo Cón - Thu Cúc - Phú Thọ 21/9/2025](https://bangoc.github.io/ảnh/đèo-cón-thu-cúc-phú-thọ-21-9-2025.html)
