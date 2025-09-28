@@ -23,3 +23,5 @@ Các bài trong blog này mình viết để học chứ không phải để d�
 [Ảnh thiên văn chụp ở Tà Xùa tối 20/9/2025](https://bangoc.github.io/ảnh/thiên-văn-20-9-2025.html)
 
 [Đèo Cón - Thu Cúc - Phú Thọ 21/9/2025](https://bangoc.github.io/ảnh/đèo-cón-thu-cúc-phú-thọ-21-9-2025.html)
+
+[Trung Thu Tuyên Quang 27/9/2025](https://bangoc.github.io/ảnh/trung-thu-tuyên-quang-27-9-2025.html)
