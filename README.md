@@ -25,3 +25,5 @@ Các bài trong blog này mình viết để học chứ không phải để d�
 [Đèo Cón - Thu Cúc - Phú Thọ 21/9/2025](https://bangoc.github.io/ảnh/đèo-cón-thu-cúc-phú-thọ-21-9-2025.html)
 
 [Trung Thu Tuyên Quang 27/9/2025](https://bangoc.github.io/ảnh/trung-thu-tuyên-quang-27-9-2025.html)
+
+[Mùa vàng Mù Cang Chải 2025](https://bangoc.github.io/ảnh/mùa-vàng-mù-cang-chải-5-10-2025.html)
