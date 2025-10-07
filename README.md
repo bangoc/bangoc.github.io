@@ -26,4 +26,4 @@ Các bài trong blog này mình viết để học chứ không phải để d�
 
 [Trung Thu Tuyên Quang 27/9/2025](https://bangoc.github.io/ảnh/trung-thu-tuyên-quang-27-9-2025.html)
 
-[Mùa vàng Mù Cang Chải 2025](https://bangoc.github.io/ảnh/mùa-vàng-mù-cang-chải-5-10-2025.html)
+[Mùa vàng Mù Cang Chải 5/10/2025](https://bangoc.github.io/ảnh/mùa-vàng-mù-cang-chải-5-10-2025.html)
