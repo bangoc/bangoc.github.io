@@ -1,3 +1,5 @@
+[Suy ngẫm về "AI ngày nay có thể thay thế Junior dev rồi"?](https://bangoc.github.io/suy-ngam-ve-AI-junior-dev.html)
+
 [Mây Tà Xùa 4/10/2025](https://bangoc.github.io/ảnh/mây-tà-xùa-4-10-2025.html)
 
 [Mùa vàng Mù Cang Chải 5/10/2025](https://bangoc.github.io/ảnh/mùa-vàng-mù-cang-chải-5-10-2025.html)
