@@ -1,3 +1,5 @@
+[Ảnh phong cảnh trên hành trình ven biển Bắc - Nam hè 2026](https://bangoc.github.io/ảnh/Bắc-Nam-hè-2026.html)
+
 [Suy ngẫm về "AI ngày nay có thể thay thế Junior dev rồi"?](https://bangoc.github.io/suy-ngam-ve-AI-junior-dev.html)
 
 [Mây Tà Xùa 4/10/2025](https://bangoc.github.io/ảnh/mây-tà-xùa-4-10-2025.html)
