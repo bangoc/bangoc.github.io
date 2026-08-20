@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Blog của Nguyễn Bá Ngọc
-description: Các bạn có thể ghi nhớ trang này để theo dõi những bài viết mới nhất của mình.
+description: |
+    Bất kỳ ai cũng có thể xây dựng triết lý cho bản thân. Với tôi thì ':'
+    "Tư duy lập trình và ngôn ngữ lập trình đều quan trọng, phải có hiểu biết ngôn ngữ để có thể vận dụng khéo léo và hiệu quả".
+avatar: "/images/bangoc.jpg"
 google_analytics: UA-106832538-1
